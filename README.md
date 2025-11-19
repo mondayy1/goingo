@@ -1,0 +1,2 @@
+# goingo
+go practice
